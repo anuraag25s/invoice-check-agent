@@ -1,0 +1,7 @@
+vendor_id,vendor,delivery_cadence,delivery_day,order_unit,item_codes_on_invoice,invoice_style
+V1,Sunrise Wholesale Grocers,biweekly,Wed,CS,vendor_code,"printed, item codes"
+V2,Metro Beverage Supply,weekly,Tue,CS,vendor_code,"route ticket, deposits"
+V3,Greenleaf Produce Co.,weekly,Mon,CS,none,"handwritten ticket, no codes"
+V4,Lakeside Snack Distributors,weekly,Thu,EA,upc,"DSD, UPC codes"
+V5,Harbor Household Supply,biweekly,Fri,CS,vendor_code,"printed, columns in unusual order, promo discount"
+V6,Spice Route Imports,biweekly,Wed,CS,none,"importer bill, abbreviations and metric sizes, no codes"

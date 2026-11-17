@@ -1,0 +1,37 @@
+shipment_id,vendor_id,vendor,invoice_number,invoice_date,received_date,invoice_file,invoice_total_printed,n_invoice_lines,n_issues
+SHP-001,V3,Greenleaf Produce Co.,No. 1210,2026-09-21,2026-09-21,invoices/SHP-001_greenleaf_photo.jpg,458.55,8,0
+SHP-002,V2,Metro Beverage Supply,MB 482321,2026-09-22,2026-09-22,invoices/SHP-002_metro_scan.jpg,352.54,8,2
+SHP-003,V1,Sunrise Wholesale Grocers,SW-2026-40236,2026-09-22,2026-09-23,invoices/SHP-003_sunrise_scan.jpg,547.13,7,2
+SHP-004,V4,Lakeside Snack Distributors,LS-DSD-770447,2026-09-24,2026-09-24,invoices/SHP-004_lakeside_scan.jpg,298.90,9,1
+SHP-005,V3,Greenleaf Produce Co.,No. 1233,2026-09-28,2026-09-28,invoices/SHP-005_greenleaf_photo.jpg,679.74,10,2
+SHP-006,V2,Metro Beverage Supply,MB 482352,2026-09-29,2026-09-29,invoices/SHP-006_metro_scan.jpg,416.20,7,2
+SHP-007,V6,Spice Route Imports,SRI/26/231,2026-09-28,2026-09-30,invoices/SHP-007_spiceroute_photo.jpg,1112.20,8,1
+SHP-008,V4,Lakeside Snack Distributors,LS-DSD-770451,2026-10-01,2026-10-01,invoices/SHP-008_lakeside_scan.jpg,412.10,10,2
+SHP-009,V5,Harbor Household Supply,HHS-INV-30532,2026-09-30,2026-10-02,invoices/SHP-009_harbor_scan.jpg,851.15,10,0
+SHP-010,V3,Greenleaf Produce Co.,No. 1253,2026-10-05,2026-10-05,invoices/SHP-010_greenleaf_photo.jpg,498.70,8,0
+SHP-011,V2,Metro Beverage Supply,MB 482385,2026-10-06,2026-10-06,invoices/SHP-011_metro_photo.jpg,263.92,9,0
+SHP-012,V1,Sunrise Wholesale Grocers,SW-2026-40243,2026-10-05,2026-10-07,invoices/SHP-012_sunrise_scan.jpg,895.11,12,2
+SHP-013,V4,Lakeside Snack Distributors,LS-DSD-770470,2026-10-08,2026-10-08,invoices/SHP-013_lakeside_scan.jpg,326.86,8,2
+SHP-014,V3,Greenleaf Produce Co.,No. 1286,2026-10-12,2026-10-12,invoices/SHP-014_greenleaf_photo.jpg,384.05,9,2
+SHP-015,V2,Metro Beverage Supply,MB 482397,2026-10-13,2026-10-13,invoices/SHP-015_metro_photo.jpg,284.48,9,0
+SHP-016,V6,Spice Route Imports,SRI/26/258,2026-10-13,2026-10-14,invoices/SHP-016_spiceroute_photo.jpg,1110.20,10,0
+SHP-017,V4,Lakeside Snack Distributors,LS-DSD-770481,2026-10-15,2026-10-15,invoices/SHP-017_lakeside_photo.jpg,185.22,6,2
+SHP-018,V5,Harbor Household Supply,HHS-INV-30560,2026-10-15,2026-10-16,invoices/SHP-018_harbor_scan.jpg,981.78,10,0
+SHP-019,V3,Greenleaf Produce Co.,No. 1295,2026-10-19,2026-10-19,invoices/SHP-019_greenleaf_photo.jpg,767.81,12,1
+SHP-020,V2,Metro Beverage Supply,MB 482401,2026-10-20,2026-10-20,invoices/SHP-020_metro_scan.jpg,165.88,6,3
+SHP-021,V1,Sunrise Wholesale Grocers,SW-2026-40254,2026-10-19,2026-10-21,invoices/SHP-021_sunrise_scan.jpg,568.32,10,0
+SHP-022,V4,Lakeside Snack Distributors,LS-DSD-770507,2026-10-22,2026-10-22,invoices/SHP-022_lakeside_scan.jpg,227.48,8,2
+SHP-023,V3,Greenleaf Produce Co.,No. 1306,2026-10-26,2026-10-26,invoices/SHP-023_greenleaf_photo.jpg,434.26,9,0
+SHP-024,V2,Metro Beverage Supply,MB 482416,2026-10-27,2026-10-27,invoices/SHP-024_metro_scan.jpg,358.10,8,1
+SHP-025,V6,Spice Route Imports,SRI/26/289,2026-10-27,2026-10-28,invoices/SHP-025_spiceroute_photo.jpg,1371.20,9,0
+SHP-026,V4,Lakeside Snack Distributors,LS-DSD-770543,2026-10-29,2026-10-29,invoices/SHP-026_lakeside_scan.jpg,233.70,6,1
+SHP-027,V5,Harbor Household Supply,HHS-INV-30581,2026-10-28,2026-10-30,invoices/SHP-027_harbor_scan.jpg,702.19,9,2
+SHP-028,V3,Greenleaf Produce Co.,No. 1342,2026-11-02,2026-11-02,invoices/SHP-028_greenleaf_photo.jpg,461.58,9,2
+SHP-029,V2,Metro Beverage Supply,MB 482456,2026-11-03,2026-11-03,invoices/SHP-029_metro_photo.jpg,347.94,8,0
+SHP-030,V1,Sunrise Wholesale Grocers,SW-2026-40280,2026-11-02,2026-11-04,invoices/SHP-030_sunrise_photo.jpg,627.34,10,2
+SHP-031,V4,Lakeside Snack Distributors,LS-DSD-770577,2026-11-05,2026-11-05,invoices/SHP-031_lakeside_scan.jpg,311.90,10,1
+SHP-032,V3,Greenleaf Produce Co.,No. 1365,2026-11-09,2026-11-09,invoices/SHP-032_greenleaf_photo.jpg,513.81,11,0
+SHP-033,V2,Metro Beverage Supply,MB 482460,2026-11-10,2026-11-10,invoices/SHP-033_metro_scan.jpg,298.90,9,1
+SHP-034,V6,Spice Route Imports,SRI/26/323,2026-11-09,2026-11-11,invoices/SHP-034_spiceroute_photo.jpg,602.20,6,0
+SHP-035,V4,Lakeside Snack Distributors,LS-DSD-770587,2026-11-12,2026-11-12,invoices/SHP-035_lakeside_scan.jpg,170.50,7,0
+SHP-036,V5,Harbor Household Supply,HHS-INV-30614,2026-11-11,2026-11-13,invoices/SHP-036_harbor_photo.jpg,605.91,6,1

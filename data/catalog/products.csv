@@ -1,0 +1,76 @@
+store_sku,product_name,category,vendor_id,vendor_item_code,upc,order_unit,pack,sell_unit,unit_cost,retail_price
+MSM-1001,Spaghetti Pasta 16 oz,Pasta,V1,SW-14506,024592132789,CS,12,ea,1.05,1.59
+MSM-1002,Penne Pasta 16 oz,Pasta,V1,SW-18935,028289234343,CS,12,ea,1.1,1.59
+MSM-1003,Marinara Sauce 24 oz,Sauce,V1,SW-10488,065302141653,CS,12,ea,2.15,3.99
+MSM-1004,Long Grain White Rice 5 lb,Rice,V1,SW-19863,040495762373,CS,8,ea,3.4,4.99
+MSM-1005,Black Beans 15.5 oz can,Canned,V1,SW-18928,036062951813,CS,24,ea,0.72,1.09
+MSM-1006,Diced Tomatoes 14.5 oz can,Canned,V1,SW-14557,068878872365,CS,24,ea,0.78,1.29
+MSM-1007,Creamy Peanut Butter 16 oz,Spreads,V1,SW-16924,010851309269,CS,12,ea,2.05,2.99
+MSM-1008,Strawberry Jam 18 oz,Spreads,V1,SW-15514,030379382216,CS,12,ea,2.3,3.99
+MSM-1009,All-Purpose Flour 5 lb,Baking,V1,SW-15881,059797226766,CS,8,ea,2.2,3.99
+MSM-1010,Granulated Sugar 4 lb,Baking,V1,SW-10711,089131446710,CS,8,ea,2.6,4.99
+MSM-1011,Vegetable Oil 48 oz,Oil,V1,SW-16201,080284263612,CS,9,ea,3.35,4.99
+MSM-1012,Chicken Noodle Soup 10.75 oz,Canned,V1,SW-15925,048427923977,CS,24,ea,0.95,1.49
+MSM-1013,Old Fashioned Oats 42 oz,Cereal,V1,,019116160065,CS,12,ea,3.1,4.99
+MSM-1014,Corn Flakes 18 oz,Cereal,V1,,020458405127,CS,12,ea,2.45,3.99
+MSM-1015,Cola 2 L,Soda,V2,MB2854,069429933207,CS,8,ea,1.25,1.89
+MSM-1016,Diet Cola 2 L,Soda,V2,MB2214,058520565660,CS,8,ea,1.25,1.99
+MSM-1017,Lemon-Lime Soda 2 L,Soda,V2,MB2650,019358898405,CS,8,ea,1.2,1.79
+MSM-1018,Cola 12-pack cans,Soda multipack,V2,MB2473,042087314175,CS,2,ea,4.6,6.99
+MSM-1019,Spring Water 24-pack 16.9 oz,Water,V2,MB2701,083000387852,CS,1,ea,3.1,4.99
+MSM-1020,Spring Water 1 gal,Water,V2,MB2841,017331400218,CS,6,ea,0.85,1.19
+MSM-1021,Orange Juice 52 oz,Juice,V2,MB2274,051347625814,CS,6,ea,2.9,4.99
+MSM-1022,Sports Drink Fruit Punch 28 oz,Sports drink,V2,MB2217,084341512453,CS,15,ea,0.95,1.49
+MSM-1023,Sports Drink Lemon-Lime 28 oz,Sports drink,V2,MB2469,061856942593,CS,15,ea,0.95,1.39
+MSM-1024,Iced Tea Lemon 18.5 oz,Tea,V2,MB2762,028301423250,CS,12,ea,0.88,1.39
+MSM-1025,Energy Drink 16 oz can,Energy,V2,MB2438,044438866227,CS,24,ea,1.45,2.29
+MSM-1026,Sparkling Water Lime 8-pack,Water,V2,MB2224,062350574471,CS,3,ea,3.2,5.99
+MSM-1027,Bananas,Fruit,V3,,,CS,40,lb,0.46,0.69
+MSM-1028,Red Onions,Onions,V3,,,CS,25,lb,0.62,0.99
+MSM-1029,Yellow Onions,Onions,V3,,,CS,50,lb,0.38,0.59
+MSM-1030,Russet Potatoes,Potatoes,V3,,,CS,50,lb,0.42,0.69
+MSM-1031,Roma Tomatoes,Tomatoes,V3,,,CS,25,lb,0.95,1.39
+MSM-1032,Hass Avocados,Fruit,V3,,,CS,48,ea,0.78,1.19
+MSM-1033,Limes,Citrus,V3,,,CS,110,ea,0.18,0.29
+MSM-1034,Lemons,Citrus,V3,,,CS,115,ea,0.25,0.39
+MSM-1035,Cilantro bunch,Herbs,V3,,,CS,30,bunch,0.4,0.59
+MSM-1036,Green Bell Peppers,Peppers,V3,,,CS,25,lb,0.85,1.29
+MSM-1037,Iceberg Lettuce,Greens,V3,,,CS,24,ea,0.95,1.49
+MSM-1038,Gala Apples,Fruit,V3,,,CS,88,ea,0.48,0.69
+MSM-1039,Carrots 2 lb bag,Roots,V3,,,CS,24,bag,1.1,1.69
+MSM-1040,Potato Chips Classic 8 oz,Chips,V4,011504991664,011504991664,EA,1,ea,2.45,3.99
+MSM-1041,Potato Chips BBQ 8 oz,Chips,V4,080381449735,080381449735,EA,1,ea,2.45,3.99
+MSM-1042,Potato Chips Sour Cream & Onion 8 oz,Chips,V4,054587246214,054587246214,EA,1,ea,2.45,3.99
+MSM-1043,Tortilla Chips 13 oz,Chips,V4,030730694705,030730694705,EA,1,ea,2.85,3.99
+MSM-1044,Pretzel Twists 16 oz,Pretzels,V4,044522756120,044522756120,EA,1,ea,2.3,3.99
+MSM-1045,Cheese Puffs 8 oz,Puffs,V4,076542239475,076542239475,EA,1,ea,2.1,3.99
+MSM-1046,Butter Popcorn 6 oz,Popcorn,V4,049117937489,049117937489,EA,1,ea,2.2,3.99
+MSM-1047,Trail Mix 10 oz,Nuts,V4,036071300329,036071300329,EA,1,ea,3.6,5.99
+MSM-1048,Chocolate Chip Cookies 13 oz,Cookies,V4,031174806976,031174806976,EA,1,ea,2.75,4.99
+MSM-1049,Sandwich Crackers 8-pack,Crackers,V4,079514100742,079514100742,EA,1,ea,2.4,3.99
+MSM-1050,Beef Jerky Original 2.85 oz,Meat snacks,V4,074042125526,074042125526,EA,1,ea,3.9,5.99
+MSM-1051,Salsa Medium 16 oz,Dips,V4,057576503060,057576503060,EA,1,ea,2.15,3.99
+MSM-1052,Paper Towels 6-roll,Paper,V5,HH-180,041571843641,CS,4,ea,7.2,10.99
+MSM-1053,Bath Tissue 12-roll,Paper,V5,HH-878,073699190710,CS,4,ea,8.4,12.99
+MSM-1054,Dish Soap 24 oz,Cleaning,V5,HH-775,026483268287,CS,9,ea,1.85,2.79
+MSM-1055,Laundry Detergent 92 oz,Laundry,V5,HH-371,082063316434,CS,4,ea,9.8,14.99
+MSM-1056,Trash Bags 13 gal 40 ct,Bags,V5,HH-316,089507654619,CS,6,ea,5.1,8.99
+MSM-1057,Aluminum Foil 75 sq ft,Wraps,V5,HH-508,036365508578,CS,12,ea,3.05,4.99
+MSM-1058,Bleach 81 oz,Cleaning,V5,HH-629,058944674221,CS,6,ea,2.75,4.99
+MSM-1059,All-Purpose Cleaner 32 oz,Cleaning,V5,HH-165,042493394518,CS,12,ea,2.4,3.99
+MSM-1060,Scrub Sponges 6-pack,Cleaning,V5,HH-335,087110826034,CS,12,ea,2.9,4.99
+MSM-1061,AA Batteries 4-pack,Batteries,V5,HH-824,010942193050,CS,12,ea,3.4,5.99
+MSM-1062,Hand Soap 7.5 oz pump,Personal care,V5,HH-132,040007188349,CS,12,ea,1.35,2.19
+MSM-1063,Zip Bags Gallon 30 ct,Wraps,V5,,019287773910,CS,12,ea,2.6,3.99
+MSM-1064,Basmati Rice 10 lb,Rice,V6,,073624380803,CS,4,ea,11.5,17.99
+MSM-1065,Toor Dal 4 lb,Lentils,V6,,084847855252,CS,10,ea,5.4,8.99
+MSM-1066,Chana Dal 4 lb,Lentils,V6,,071993633544,CS,10,ea,4.6,6.99
+MSM-1067,Turmeric Powder 7 oz,Spices,V6,,022704963740,CS,20,ea,1.4,2.09
+MSM-1068,Cumin Seeds 7 oz,Spices,V6,,065519638830,CS,20,ea,1.9,2.89
+MSM-1069,Garam Masala 3.5 oz,Spices,V6,,017100982594,CS,20,ea,1.75,2.69
+MSM-1070,Ghee 32 oz,Dairy,V6,,022899179445,CS,12,ea,9.2,13.99
+MSM-1071,Mango Pickle 10 oz,Condiments,V6,,054473243228,CS,12,ea,2.4,3.99
+MSM-1072,Chickpea Flour 4 lb,Flour,V6,,034931802921,CS,10,ea,4.1,6.99
+MSM-1073,Frozen Paratha 5-pack,Frozen,V6,,065296340506,CS,24,ea,1.95,2.89
+MSM-1074,Coconut Milk 13.5 oz,Canned,V6,,042742198805,CS,24,ea,0.95,1.49
+MSM-1075,Tamarind Paste 8 oz,Condiments,V6,,082132228330,CS,24,ea,1.3,1.89

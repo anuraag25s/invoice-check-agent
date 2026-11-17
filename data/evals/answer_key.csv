@@ -1,0 +1,38 @@
+shipment_id,invoice_number,vendor,issue_type,store_sku,product_name,related_store_sku,invoiced_units,received_units,damaged_units,dollar_impact,expected_action,explanation
+SHP-002,MB 482321,Metro Beverage Supply,PRICE_CHANGE,MSM-1025,Energy Drink 16 oz can,,72,72,0,8.34,Review cost change; approve new cost and update retail price,Price per CS went from $34.80 to $37.58 (+8.0%).
+SHP-002,MB 482321,Metro Beverage Supply,MISSING,MSM-1022,Sports Drink Fruit Punch 28 oz,,30,0,0,28.50,Request credit; item billed but not delivered,"Invoiced 30 ea, received 0."
+SHP-003,SW-2026-40236,Sunrise Wholesale Grocers,MISSING,MSM-1007,Creamy Peanut Butter 16 oz,,60,0,0,123.00,Request credit; item billed but not delivered,"Invoiced 60 ea, received 0."
+SHP-003,SW-2026-40236,Sunrise Wholesale Grocers,PRICE_CHANGE,MSM-1004,Long Grain White Rice 5 lb,,32,32,0,10.88,Review cost change; approve new cost and update retail price,Price per CS went from $27.20 to $29.92 (+10.0%).
+SHP-004,LS-DSD-770447,Lakeside Snack Distributors,SHORT,MSM-1046,Butter Popcorn 6 oz,,12,11,0,2.20,Request credit for units not received,"Invoiced 12 ea, received 11."
+SHP-005,No. 1233,Greenleaf Produce Co.,DAMAGED,MSM-1032,Hass Avocados,,96,96,2,1.56,Request credit or replacement for damaged units,2 of 96 units damaged (bruised).
+SHP-005,No. 1233,Greenleaf Produce Co.,DUPLICATE_LINE,MSM-1030,Russet Potatoes,,150,150,0,63.00,Request credit; same item billed twice,Line for Russet 50# appears twice; received once.
+SHP-006,MB 482352,Metro Beverage Supply,PACK_MISMATCH,MSM-1025,Energy Drink 16 oz can,,120,100,0,31.32,Request credit; cases held fewer units than invoiced pack size,"Invoiced 120 ea, received 100."
+SHP-006,MB 482352,Metro Beverage Supply,SUBSTITUTION,MSM-1022,Sports Drink Fruit Punch 28 oz,MSM-1023,75,75,0,0.00,Decide: accept substitute (get invoice corrected) or return it and request credit,"Invoiced Sports Drink Fruit Punch 28 oz, received Sports Drink Lemon-Lime 28 oz instead (75 units)."
+SHP-007,SRI/26/231,Spice Route Imports,PACK_MISMATCH,MSM-1072,Chickpea Flour 4 lb,,30,24,0,24.60,Request credit; cases held fewer units than invoiced pack size,"Invoiced 30 ea, received 24."
+SHP-008,LS-DSD-770451,Lakeside Snack Distributors,MATH_ERROR,MSM-1043,Tortilla Chips 13 oz,,12,12,0,10.00,Request corrected invoice; line total does not equal qty x price,Line printed $44.20; 12 x $2.85 = $34.20.
+SHP-008,LS-DSD-770451,Lakeside Snack Distributors,SHORT,MSM-1042,Potato Chips Sour Cream & Onion 8 oz,,8,5,0,7.35,Request credit for units not received,"Invoiced 8 ea, received 5."
+SHP-012,SW-2026-40243,Sunrise Wholesale Grocers,DUPLICATE_LINE,MSM-1014,Corn Flakes 18 oz,,24,24,0,58.80,Request credit; same item billed twice,Line for CEREAL CORN FLAKES 18OZ appears twice; received once.
+SHP-012,SW-2026-40243,Sunrise Wholesale Grocers,OVER,MSM-1008,Strawberry Jam 18 oz,,48,60,0,0.00,"Call vendor: keep and get invoiced, or return extra units","Invoiced 48, received 60; 12 units not billed (worth $27.60)."
+SHP-013,LS-DSD-770470,Lakeside Snack Distributors,PRICE_CHANGE,MSM-1041,Potato Chips BBQ 8 oz,,12,12,0,1.80,Review cost change; approve new cost and update retail price,Price per EA went from $2.45 to $2.60 (+6.1%).
+SHP-013,LS-DSD-770470,Lakeside Snack Distributors,PRICE_CHANGE,MSM-1040,Potato Chips Classic 8 oz,,24,24,0,6.96,Review cost change; approve new cost and update retail price,Price per EA went from $2.45 to $2.74 (+11.8%).
+SHP-014,No. 1286,Greenleaf Produce Co.,OVER,MSM-1033,Limes,,330,440,0,0.00,"Call vendor: keep and get invoiced, or return extra units","Invoiced 330, received 440; 110 units not billed (worth $19.80)."
+SHP-014,No. 1286,Greenleaf Produce Co.,MISSING,MSM-1028,Red Onions,,100,0,0,62.00,Request credit; item billed but not delivered,"Invoiced 100 lb, received 0."
+SHP-017,LS-DSD-770481,Lakeside Snack Distributors,DAMAGED,MSM-1040,Potato Chips Classic 8 oz,,18,18,3,8.22,Request credit or replacement for damaged units,3 of 18 units damaged (crushed bags).
+SHP-017,LS-DSD-770481,Lakeside Snack Distributors,MATH_ERROR,MSM-1047,Trail Mix 10 oz,,6,6,0,3.60,Request corrected invoice; line total does not equal qty x price,Line printed $25.20; 6 x $3.60 = $21.60.
+SHP-019,No. 1295,Greenleaf Produce Co.,DUPLICATE_LINE,MSM-1032,Hass Avocados,,192,192,0,149.76,Request credit; same item billed twice,Line for Avocado 48ct appears twice; received once.
+SHP-020,MB 482401,Metro Beverage Supply,SUBSTITUTION,MSM-1016,Diet Cola 2 L,MSM-1017,16,16,0,0.80,Decide: accept substitute (get invoice corrected) or return it and request credit,"Invoiced Diet Cola 2 L, received Lemon-Lime Soda 2 L instead (16 units)."
+SHP-020,MB 482401,Metro Beverage Supply,DAMAGED,MSM-1026,Sparkling Water Lime 8-pack,,9,9,3,9.60,Request credit or replacement for damaged units,3 of 9 units damaged (leaking bottles).
+SHP-020,MB 482401,Metro Beverage Supply,PRICE_CHANGE,MSM-1020,Spring Water 1 gal,,12,12,0,0.40,Review cost change; approve new cost and update retail price,Price per CS went from $5.10 to $5.30 (+3.9%).
+SHP-022,LS-DSD-770507,Lakeside Snack Distributors,DAMAGED,MSM-1044,Pretzel Twists 16 oz,,12,12,2,4.60,Request credit or replacement for damaged units,2 of 12 units damaged (damaged packaging).
+SHP-022,LS-DSD-770507,Lakeside Snack Distributors,OVER,MSM-1049,Sandwich Crackers 8-pack,,6,12,0,0.00,"Call vendor: keep and get invoiced, or return extra units","Invoiced 6, received 12; 6 units not billed (worth $14.40)."
+SHP-024,MB 482416,Metro Beverage Supply,EXTRA,MSM-1023,Sports Drink Lemon-Lime 28 oz,,0,15,0,0.00,"Call vendor: item delivered but not billed; confirm, then keep or return",Received 15 ea not on the invoice (worth $14.25).
+SHP-026,LS-DSD-770543,Lakeside Snack Distributors,SUBSTITUTION,MSM-1041,Potato Chips BBQ 8 oz,MSM-1043,12,12,0,-3.00,Decide: accept substitute (get invoice corrected) or return it and request credit,"Invoiced Potato Chips BBQ 8 oz, received Tortilla Chips 13 oz instead (12 units)."
+SHP-027,HHS-INV-30581,Harbor Household Supply,SHORT,MSM-1062,Hand Soap 7.5 oz pump,,60,48,0,16.20,Request credit for units not received,"Invoiced 60 ea, received 48."
+SHP-027,HHS-INV-30581,Harbor Household Supply,SHORT,MSM-1055,Laundry Detergent 92 oz,,8,4,0,39.20,Request credit for units not received,"Invoiced 8 ea, received 4."
+SHP-028,No. 1342,Greenleaf Produce Co.,SHORT,MSM-1038,Gala Apples,,176,88,0,42.24,Request credit for units not received,"Invoiced 176 ea, received 88."
+SHP-028,No. 1342,Greenleaf Produce Co.,SHORT,MSM-1027,Bananas,,120,40,0,36.80,Request credit for units not received,"Invoiced 120 lb, received 40."
+SHP-030,SW-2026-40280,Sunrise Wholesale Grocers,MATH_ERROR,MSM-1002,Penne Pasta 16 oz,,24,24,0,10.00,Request corrected invoice; line total does not equal qty x price,Line printed $36.40; 2 x $13.20 = $26.40.
+SHP-030,SW-2026-40280,Sunrise Wholesale Grocers,PACK_MISMATCH,MSM-1008,Strawberry Jam 18 oz,,48,32,0,36.80,Request credit; cases held fewer units than invoiced pack size,"Invoiced 48 ea, received 32."
+SHP-031,LS-DSD-770577,Lakeside Snack Distributors,EXTRA,MSM-1047,Trail Mix 10 oz,,0,6,0,0.00,"Call vendor: item delivered but not billed; confirm, then keep or return",Received 6 ea not on the invoice (worth $21.60).
+SHP-033,MB 482460,Metro Beverage Supply,MISSING,MSM-1024,Iced Tea Lemon 18.5 oz,,12,0,0,10.56,Request credit; item billed but not delivered,"Invoiced 12 ea, received 0."
+SHP-036,HHS-INV-30614,Harbor Household Supply,EXTRA,MSM-1055,Laundry Detergent 92 oz,,0,4,0,0.00,"Call vendor: item delivered but not billed; confirm, then keep or return",Received 4 ea not on the invoice (worth $39.20).
