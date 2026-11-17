@@ -1,0 +1,1 @@
+# Prompt used by agent/review/draft_credit_request.py to draft a vendor credit request.

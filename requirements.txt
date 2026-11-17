@@ -1,0 +1,9 @@
+# Python dependencies for the invoice-check agent (extraction, matching, reconciliation, app, eval).
+anthropic
+streamlit
+pandas
+pydantic
+pillow
+rapidfuzz
+python-dotenv
+pytest

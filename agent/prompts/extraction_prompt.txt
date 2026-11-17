@@ -1,0 +1,1 @@
+# Prompt used by agent/extraction/invoice_reader.py to read an invoice image into structured lines.
